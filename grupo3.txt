@@ -3,3 +3,10 @@ Alejandra Aguilera alejandra.aguilera.a@usach.cl
 Dionisio Santis dionisio.santis@gmail.com
 
 Patricio Urra p.urral@duocuc.cl
+<<<<<<< HEAD
+
+Esteban Geraldo esugeraldo@gmail.com
+=======
+>>>>>>> da8a458f1c37452222d6d8c88fe0bbe97ec88e51
+
+Diego Hidalgo viiess.1998@gmail.com
