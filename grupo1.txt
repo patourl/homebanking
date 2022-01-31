@@ -1,4 +1,8 @@
 Belén González Baradit   belen.gonzalez.12@sansano.usm.cl
 Rodrigo Bertrand Holbut  rodrigo.bertrand.h@gmail.com
 Yoel Trujillo yoeldts@hotmail.com
+<<<<<<< HEAD
 Javier Mella Paredes  javiermellap@gmail.com
+=======
+Javier Mella Paredes  javiermellap@gmail.com
+>>>>>>> 7e288563193c28c557c9a45f061d6bcb62fe708d
